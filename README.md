@@ -1,3 +1,6 @@
 # LITA_CLASS_DOCUMENTAION
-### Class project 
-###Tools used
+###Project Title: Data Analysis Documentation 
+### Intro:
+### Tools used:
+### vision and Mission:
+### Summary:
