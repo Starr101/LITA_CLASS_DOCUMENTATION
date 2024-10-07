@@ -9,10 +9,8 @@
   1. For data cleansing
   2. For analysis
   3. For data visualisation
-- SQL-Structured Query Language
-  1. For querying of data
-- Github
-  1. for building of portfolio 
+- SQL-Structured Query Language for querying of data
+- GitHub for portfolio building 
 
 ### vision and Mission:
 
